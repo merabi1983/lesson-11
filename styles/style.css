@@ -1,0 +1,16 @@
+.logo {
+    background-color: blue;
+    width: 115px;
+    height: 65px;
+}
+.header {
+    max-width: 1920px;
+    height: 387px;
+    background-color: blue;
+}
+.ul-items {
+    color: white;
+}
+.navigacia {
+    display: flex;
+}
